@@ -26,7 +26,7 @@
 </div>
 <hr />
 
-<p>
+<div align="bottom">
   <a
     href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=zeeshan-ahmad-khalil-873185169"
     target="_blank"
@@ -37,4 +37,4 @@
       style="border-radius: 16px"
     />
   </a>
-</p>
+</div>
