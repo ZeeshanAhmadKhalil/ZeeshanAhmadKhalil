@@ -6,7 +6,7 @@
 </p>
 <hr />
 
-<span>
+<div>
   <p>
     <img
       align="right"
@@ -23,7 +23,7 @@
       alt="ZeeshanAhmadKhalil"
     />
   </p>
-</span>
+</div>
 
 <p>
 ------------------------------------
