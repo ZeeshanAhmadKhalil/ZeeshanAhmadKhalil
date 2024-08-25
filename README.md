@@ -25,9 +25,12 @@
   </p>
 </span>
 
-<p align="center">
+<p align="left" style="margin-top: 10px;">
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=zeeshan-ahmad-khalil-873185169" target="_blank">
-    <img src="https://img.shields.io/badge/Follow_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn"/>
+    <img 
+      src="https://img.shields.io/badge/Follow_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2" 
+      alt="Follow on LinkedIn" 
+      style="border-radius: 16px;"/>
   </a>
 </p>
 
