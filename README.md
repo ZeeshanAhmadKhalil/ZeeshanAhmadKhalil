@@ -24,3 +24,25 @@
     />
   </p>
 </span>
+
+<p align="center">
+  <a
+    href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=zeeshan-ahmad-khalil-873185169"
+    target="_blank"
+    style="
+      display: inline-block;
+      padding: 7px;
+      text-align: center;
+      outline: none;
+      text-decoration: none !important;
+      color: #ffffff !important;
+      width: 200px;
+      height: 32px;
+      border-radius: 16px;
+      background-color: #0a66c2;
+      font-family: 'SF Pro Text', Helvetica, sans-serif;
+    "
+  >
+    Follow on LinkedIn
+  </a>
+</p>
