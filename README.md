@@ -27,7 +27,9 @@
 
 <p align="left">
 
-<br> 
+
+<!-- Add a blank line here to create space -->
+&nbsp;
   
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=zeeshan-ahmad-khalil-873185169" target="_blank">
     <img 
