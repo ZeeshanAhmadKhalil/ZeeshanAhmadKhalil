@@ -13,7 +13,7 @@
   >
     <img
       src="https://img.shields.io/badge/Follow_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2"
-      alt="LinkedIn"
+      alt="Follow on LinkedIn"
       style="border-radius: 16px"
     />
   </a>
