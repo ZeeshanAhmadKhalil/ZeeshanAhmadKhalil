@@ -8,7 +8,7 @@
 
 <div>
   <a
-    href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=zeeshan-ahmad-khalil-873185169"
+    href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=zeeshan10"
     target="_blank"
   >
     <img
